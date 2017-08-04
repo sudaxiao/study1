@@ -11,5 +11,7 @@ public class DemoApplication {
 	}
 	public void versionOne(){
 		System.out.println("version1");
+		System.out.println("version2");
+		System.out.println("version2");
 	}
 }
